@@ -1,8 +1,8 @@
 #	create executable
 
 SRCS = less_omp
-#LIBS = libnovas.a libnumrs.a libcoord.a libgrvts.a
-LIBS =  libgrvts.a libcoord.a libnumrs.a
+LIBS = libnovas.a libnumrs.a libcoord.a libgrvts.a
+#LIBS =  libgrvts.a libcoord.a libnumrs.a
 XDIR    = ../../bin
 DDIR	= .
 #	create executable
